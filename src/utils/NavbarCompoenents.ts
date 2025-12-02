@@ -1,10 +1,10 @@
 // src/utils/navBarmap.ts
 const navBarmap = [
-  { title: "Home", route: "/" },
-  { title: "About", route: "/about" },
-  { title: "Contact Me", route: "/contact" },
-  { title: "Projects", route: "/projects" },
-  { title: "RoadMaps", route: "/roadmaps" },
+  { title: "HOME", route: "/" },
+  { title: "ABOUT", route: "/about" },
+  { title: "CONTACT US", route: "/contact" },
+  { title: "PROJECTS", route: "/projects" },
+  { title: "ROADMAPS", route: "/roadmaps" },
 ];
 
 export default navBarmap;
